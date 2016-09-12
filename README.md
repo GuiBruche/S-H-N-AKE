@@ -1,6 +1,6 @@
 # S-H-N-AKE
 
-This is a game made for [js13k]k](http://js13kgames.com)
+This is a game made for [js13k](http://js13kgames.com)
 
 It's a variantion of the classic *snake* game.
 There are two modes:
