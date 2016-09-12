@@ -1,4 +1,4 @@
-# S-H-N-AKE
+# S(H-N)AKE
 
 This is a game made for [js13k](http://js13kgames.com)
 
